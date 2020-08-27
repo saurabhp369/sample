@@ -87,7 +87,7 @@ h1 {
     margin-left: 0%;
 }
 
-@media screen and (min-width:480px) {
+@media screen and (min-width:800px) {
     section {
         font-size: 100%;
         text-align: center;
